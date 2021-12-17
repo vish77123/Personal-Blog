@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Day-64-movie-project-start/.idea/Day-64-movie-project-start.iml" filepath="$PROJECT_DIR$/../Day-64-movie-project-start/.idea/Day-64-movie-project-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day-66 cafe-api-start/.idea/Day-66 cafe-api-start.iml" filepath="$PROJECT_DIR$/../Day-66 cafe-api-start/.idea/Day-66 cafe-api-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day-69-blog-with-users-start.iml" filepath="$PROJECT_DIR$/.idea/Day-69-blog-with-users-start.iml" />
+    </modules>
+  </component>
+</project>
